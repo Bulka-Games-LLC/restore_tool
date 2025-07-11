@@ -18,7 +18,6 @@
     <type fullname="Cats.MergeItemsConfig" preserve="all" />
     <type fullname="Cats.PhrasePlayer" preserve="all" />
     <type fullname="Cats.Screens.Board.QuestIconsConfig" preserve="all" />
-    <type fullname="Cats.Screens.CardOffer.CardOfferConfigs" preserve="all" />
     <type fullname="Cats.Screens.CardsIntros.CardIntroPlayer" preserve="all" />
     <type fullname="Cats.Screens.EventGame.EventAnimationPlayer" preserve="all" />
     <type fullname="Cats.Screens.VipRooms.VipGirlClick" preserve="all" />
@@ -38,7 +37,6 @@
     <type fullname="Cats.Dialogs.Block" preserve="nothing" serialized="true" />
     <type fullname="Cats.Dialogs.Message" preserve="nothing" serialized="true" />
     <type fullname="Cats.Dialogs.ShownCharData" preserve="nothing" serialized="true" />
-    <type fullname="Cats.Screens.CardOffer.CardOfferConfig" preserve="nothing" serialized="true" />
     <type fullname="Cats.Screens.EventGame.AnimStatePlayer" preserve="nothing" serialized="true" />
     <type fullname="Cats.MergeEventCardsConfig/CardPair" preserve="nothing" serialized="true" />
     <type fullname="Cats.MergeItemsConfig/FamilyPair" preserve="nothing" serialized="true" />
